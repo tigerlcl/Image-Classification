@@ -83,7 +83,7 @@ if  __name__ == "__main__":
     PORT = 50001
 
     # Provide your bot's token
-    bot = telepot.Bot("587437196:AAGKtoViNhSK7gBePn2DtRJlvBbzXl-kBkM")
+    bot = telepot.Bot("Bot's Token")
     print('Initializing the bot...')
     MessageLoop(bot, handle).run_as_thread()
 
