@@ -1,6 +1,6 @@
 # Image-Classification
 using existing deep learning frameworks to classify images, deploy the service into Telegram Application
-Involved Model: **Keras pre-trained ResNet50 model, running Tensorflow background**
+<br>Involved Model: **Keras pre-trained ResNet50 model, running Tensorflow background**
 
 ### Introduction
 I will build an image classifier and then deploy the classifier as a chatbot on Telegram. Self-trained deep learning model is NOT required as the focus would be on socket programming and multi-threaded programming in Python.
